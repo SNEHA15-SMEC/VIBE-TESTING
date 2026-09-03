@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "TradingView Markets mobile web app featuring live indices, world markets, stocks, interactive charts, watchlist, and community trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
